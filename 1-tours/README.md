@@ -1,3 +1,7 @@
+项目1： tours 旅行社商品页 
+项目简介：使用React hooks，构建旅行社商品列表页，展示旅程图片、价格和详细信息描述。点击“详情”实现详情信息部分和完全展示，点击“不感兴趣”可以删除商品，删除所有商品后，可以点击“刷新”按钮重新获取商品列表。 
+修改点：使用React context解决Props Drilling问题 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
